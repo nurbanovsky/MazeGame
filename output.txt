@@ -1,0 +1,80 @@
+Maze tiles file: Maze4.txt
+
+ 0123456
+0PWWWWWP
+1XWWEWWX
+2XXXXXXX
+Player 1 position: (0 , 0)
+Move #1: d
+
+ 0123456
+0SWWWWWP
+1PWWEWWX
+2XXXXXXX
+Player 2 position: (0 , 6)
+Move #1: d
+
+ 0123456
+0SWWWWWS
+1PWWEWWP
+2XXXXXXX
+Player 1 position: (1 , 0)
+Move #2: d
+
+ 0123456
+0SWWWWWS
+1XWWEWWP
+2PXXXXXX
+Player 2 position: (1 , 6)
+Move #2: d
+
+ 0123456
+0SWWWWWS
+1XWWEWWX
+2PXXXXXP
+Player 1 position: (2 , 0)
+Move #3: r
+
+ 0123456
+0SWWWWWS
+1XWWEWWX
+2XPXXXXP
+Player 2 position: (2 , 6)
+Move #3: l
+
+ 0123456
+0SWWWWWS
+1XWWEWWX
+2XPXXXPX
+Player 1 position: (2 , 1)
+Move #4: r
+
+ 0123456
+0SWWWWWS
+1XWWEWWX
+2XXPXXPX
+Player 2 position: (2 , 5)
+Move #4: l
+
+ 0123456
+0SWWWWWS
+1XWWEWWX
+2XXPXPXX
+Player 1 position: (2 , 2)
+Move #5: r
+
+ 0123456
+0SWWWWWS
+1XWWEWWX
+2XXXPPXX
+Player 2 position: (2 , 4)
+Move #5: l
+
+ 0123456
+0SWWWWWS
+1XWWEWWX
+2XXXPXXX
+Player 1 position: (2 , 3)
+Move #6: u
+
+Player 1 wins!
